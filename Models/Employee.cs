@@ -6,7 +6,7 @@
         public string Name { get; set; }
         public int Salary { get; set; }
         public string city { get; set; }
-        public string place { get; set; }
+      
 
     }
 }
